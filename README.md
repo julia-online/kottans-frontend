@@ -4,7 +4,31 @@
 git config --global user.name "julia-online"
 ```
 
-### :v: Git & GitHub
+## Linux CLI, and HTTP :v:
+
+> :bulb: https://linuxsurvival.com/command-list/
+
+> :one: Linux is :black_circle: case-sensitive.
+><br>
+> :two: Renaming files is simply a case of :black_circle: "moving" a file from one name to another. For example, to rename file "wolves" to "coyotes", you would type mv wolves coyotes.
+><br>
+> :three: **HTTP Request** is made up of the following parts:
+
+- **request line.** It consists of a :black_circle: **verb (see below)**, a path, and the HTTP version:
+    - **GET**
+    - **POST**
+    - **PUT**
+    - **DELETE**
+- **headers** (= communication format)**;**
+    - **`Connection`**: used to decide if the network connection needs to be closed or open once a request is completed. Possible values are `keep-alive` or `closed`.
+- **body** (optional) (= form submission);
+
+<details><summary>	:footprints: Click to expand the details - Screenshots from Linux Tutorial :footprints: </summary>
+
+![linux_cli_done](https://github.com/julia-online/kottans-frontend/blob/main/task_linux_cli/linux_cli_done.jpg)
+
+
+## Git & GitHub :v:
 
 > :one: Git thinks about its data like a :black_circle: **stream of snapshots**.
 > <br>
