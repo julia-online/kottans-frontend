@@ -14,9 +14,13 @@ git config --global user.name "julia-online"
 ><br>
 > :three: **HTTP Request** is made up of the following parts:
 >- **request line.** It consists of a :black_circle: **verb (see below)**, a path, and the HTTP version:
+<br>
     - **GET**
+    <br>
     - **POST**
+    <br>
     - **PUT**
+    <br>
     - **DELETE**
 >- **headers** (= communication format)**;**
     - **`Connection`**: used to decide if the network connection needs to be closed or open once a request is completed. Possible values are `keep-alive` or `closed`.
