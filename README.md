@@ -18,10 +18,10 @@ git config --global user.name "julia-online"
 > 3. :black_circle: **BODY** (optional) (= form submission);
 > :information_source: *linuxsurvival.com & code.tutsplus.com* 
 
-<details><summary>	:footprints: Click to expand the details - Screenshots from Linux Tutorial :footprints: </summary>
+<details><summary>	:footprints: Click to expand the details - Screenshots from Linux Tutorial :footprints:
 
 ![linux_cli_done](https://github.com/julia-online/kottans-frontend/blob/main/task_linux_cli/linux_cli_done.jpg)
-
+</summary>
 
 ## Git & GitHub :v:
 
