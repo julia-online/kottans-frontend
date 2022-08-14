@@ -22,7 +22,7 @@ git config --global user.name "julia-online"
 
 ![linux_cli_done](https://github.com/julia-online/kottans-frontend/blob/main/task_linux_cli/linux_cli_done.jpg)
 
-</summary>
+</details>
 
 ## Git & GitHub :v:
 
