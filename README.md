@@ -13,8 +13,7 @@ git config --global user.name "julia-online"
 > :two: Renaming files is simply a case of :black_circle: "moving" a file from one name to another. For example, to rename file "wolves" to "coyotes", you would type mv wolves coyotes.
 ><br>
 > :three: **HTTP Request** is made up of the following parts:
-> 1. :black_circle: **REQUEST LINE** - it consists of a **verb**, a path, and the HTTP version.
-> **VERBS**: - **GET** - **POST** - **PUT** - **DELETE**
+> 1. :black_circle: **REQUEST LINE** - it consists of a **verb** (**GET** - **POST** - **PUT** - **DELETE**), a path, and the HTTP version.
 > 2. :black_circle: **HEADERS** (= communication format)**; - `Connection`: used to decide if the network connection needs to be closed or open once a request is completed. Possible values are `keep-alive` or `closed`.
 > 3. :black_circle: **BODY** (optional) (= form submission);
 > :information_source: *linuxsurvival.com & code.tutsplus.com* 
