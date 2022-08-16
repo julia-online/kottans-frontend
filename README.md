@@ -10,9 +10,8 @@ git config --global user.name "julia-online"
 > :two: There are two primary ways to undo changes in Git -- :black_circle: git reset & git revert. 
 git reset will move a branch backwards as if the commit had never been made in the first place ( (x) doesn't work for remote branches that others are using).
 ><br>
-> :three: Git push can optionally take arguments in the form of: `git push <remote> <place>`. In order to specify both the source and the destination of <place>, simply join the two together with a colon: 
-`git push origin <source>:<destination>`. :black_circle: Pushing "nothing" to a remote branch deletes it! 
-`git push origin :foo`
+> :three: Git push can optionally take arguments in the form of: `git push <remote> <place>`. In order to specify both the source and the destination of <place>, 
+simply join the two together with a colon: `git push origin <source>:<destination>`. :black_circle: Pushing "nothing" to a remote branch deletes it! `git push origin :foo`
 > :information_source: learngitbranching.js.org
 
 <details><summary>	:footprints: Click to expand the details - Screenshots from learngitbranching.js.org :footprints: </summary>
@@ -22,7 +21,6 @@ git reset will move a branch backwards as if the commit had never been made in t
 ![learngit_ramp_move](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_ramp_move.jpg)
 ![learngit_ramp_move](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_ramp_move_done.jpg)
 
-</details>
   
 <details><summary> :mag: Remote >> To Origin And Beyond </summary>
 
