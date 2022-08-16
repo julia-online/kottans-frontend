@@ -21,13 +21,12 @@ simply join the two together with a colon: `git push origin <source>:<destinatio
 ![learngit_ramp_move](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_ramp_move.jpg)
 ![learngit_ramp_move](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_ramp_move_done.jpg)
 
-  
 <details><summary> :mag: Remote >> To Origin And Beyond </summary>
 
 ![learngit_origin](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_origin.jpg)
 ![learngit_origin_done](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_origin_done.jpg)
 
-</details>
+</details></details>
 
 ## Linux CLI, and HTTP :v:
 
