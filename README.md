@@ -19,6 +19,7 @@ simply join the two together with a colon: `git push origin <source>:<destinatio
 <details><summary> :mag: Main >> Ramping Up & Moving Work Around </summary>
 
 ![learngit_ramp_move](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_ramp_move.jpg)
+
 ![learngit_ramp_move](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_ramp_move_done.jpg)
 
 <details><summary> :mag: Remote >> To Origin And Beyond </summary>
