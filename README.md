@@ -7,10 +7,11 @@ git config --global user.name "julia-online"
 
 > :one: Detaching HEAD just means :black_circle: attaching it to a commit instead of a branch.
 ><br>
-> :two: There are two primary ways to undo changes in Git -- one is using :black_circle: git reset and the other is using :black_circle: git revert. git reset will move a branch backwards as if the commit had never been made in the first place ( (x) doesn't work for remote branches that others are using).
+> :two: There are two primary ways to undo changes in Git -- :black_circle: git reset & git revert. 
+git reset will move a branch backwards as if the commit had never been made in the first place ( (x) doesn't work for remote branches that others are using).
 ><br>
-> :three: Git push can optionally take arguments in the form of: git push <remote> <place>. In order to specify both the source and the destination of <place>, simply join the two together with a colon: 
-git push origin <source>:<destination>. :black_circle: Pushing "nothing" to a remote branch deletes it! 
+> :three: Git push can optionally take arguments in the form of: `git push <remote> <place>`. In order to specify both the source and the destination of <place>, simply join the two together with a colon: 
+`git push origin <source>:<destination>`. :black_circle: Pushing "nothing" to a remote branch deletes it! 
 `git push origin :foo`
 > :information_source: learngitbranching.js.org
 
