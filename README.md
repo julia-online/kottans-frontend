@@ -30,6 +30,7 @@ simply join the two together with a colon: `git push origin <source>:<destinatio
 ![learngit_origin_done](https://github.com/julia-online/kottans-frontend/blob/main/task_git_collaboration/learngit_origin_done.jpg)
 
 </details>
+</details>
 
 ## Linux CLI, and HTTP :v:
 
