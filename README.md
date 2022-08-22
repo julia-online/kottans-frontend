@@ -3,7 +3,7 @@
 ```linux
 git config --global user.name "julia-online"
 ```
-## Intro to HTML and CSS
+## Intro to HTML and CSS :v:
 
 > :one: HTML provides :black_circle: structure to the content appearing on a website, such as images, text, or videos.
 ><br>
