@@ -3,6 +3,21 @@
 ```linux
 git config --global user.name "julia-online"
 ```
+## Intro to HTML and CSS
+
+> :one: HTML provides :black_circle: structure to the content appearing on a website, such as images, text, or videos.
+><br>
+> :two: CSS can select HTML elements by :black_circle: their type, class, ID & attribute.
+><br>
+> :three: Divites - the excessive misuse of divs to markup a page. Use `nav` for navigation in the `header` tag. Use :black_circle: `header`, `main`, `footer` for structure HTML. Use `small` in the tag called `footer`.
+> :information_source: *codecademy.com*
+
+<details><summary>	:footprints: Click to expand the details - Screenshots from codecademy.com :footprints: </summary>
+
+![learngit_ramp_move](https://github.com/julia-online/kottans-frontend/blob/main/task_html_css_intro/intro_html-css_done.jpg)
+
+</details>
+
 ## Git Collaboration :v:
 
 > :one: Detaching HEAD just means :black_circle: attaching it to a commit instead of a branch.
