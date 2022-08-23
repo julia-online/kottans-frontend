@@ -3,6 +3,23 @@
 ```linux
 git config --global user.name "julia-online"
 ```
+## Responsive Web Design :v:
+
+> :one: Flexbox consists of :black_circle: (1) flex container & (2) flex items.
+><br>
+> :two: Container properties: flex-direction, flex-wrap, flex-flow, gap, justify-content, aling-items, align-content; Item properties: align-self, flex-grow, flex-shrink, flex-basis, flex, order.
+><br>
+> :three: All CSS Grid Properties -> https://www.w3schools.com/css/css_grid.asp
+> :information_source: *w3schools.com*
+
+<details><summary>	:footprints: Click to expand the details - Screenshots from flexboxfroggy.com & cssgridgarden.com :footprints: </summary>
+
+![flexbox-froggy_done](https://github.com/julia-online/kottans-frontend/blob/main/task_responsive_web_design/flexbox-froggy_done.jpg)
+
+![grid-garden_done](https://github.com/julia-online/kottans-frontend/blob/main/task_responsive_web_design/grid-garden_done.jpg)
+
+</details>
+
 ## Intro to HTML and CSS :v:
 
 > :one: HTML provides :black_circle: structure to the content appearing on a website, such as images, text, or videos.
