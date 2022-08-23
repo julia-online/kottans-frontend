@@ -7,9 +7,9 @@ git config --global user.name "julia-online"
 
 > :one: Flexbox consists of :black_circle: (1) flex container & (2) flex items.
 ><br>
-> :two: Container properties: flex-direction, flex-wrap, flex-flow, gap, justify-content, aling-items, align-content; Item properties: align-self, flex-grow, flex-shrink, flex-basis, flex, order.
+> :two: :black_circle: Flexbox -- Container properties: flex-direction, flex-wrap, flex-flow, gap, justify-content, aling-items, align-content; :black_circle: Item properties: align-self, flex-grow, flex-shrink, flex-basis, flex, order.
 ><br>
-> :three: All CSS Grid Properties -> https://www.w3schools.com/css/css_grid.asp
+> :three: All CSS :black_circle: Grid Layout Properties -> https://www.w3schools.com/css/css_grid.asp
 > :information_source: *w3schools.com*
 
 <details><summary>	:footprints: Click to expand the details - Screenshots from flexboxfroggy.com & cssgridgarden.com :footprints: </summary>
