@@ -3,6 +3,34 @@
 ```linux
 git config --global user.name "julia-online"
 ```
+
+## JS Basics :flushed:
+
+> :one: Most modern programming languages, like JavaScript, don't start counting at 1 like humans do. They start at 0. This is referred to as :black_circle: Zero-based indexing.
+><br>
+> :two: Unlike strings, the entries of arrays are :black_circle: mutable and can be changed freely, even if the array was declared with const.
+><br>
+> :three: In JavaScript, scope refers to the visibility of variables. Variables which are defined outside of a function block have :black_circle: Global scope. Variables which are declared within a function, as well as the function parameters, have local scope.
+><br>
+> :four: Functional programming is a style of programming where solutions are simple, isolated functions, without any side effects outside of the function scope: INPUT -> PROCESS -> OUTPUT. One of the core principles of functional programming is to not change things. Changes lead to bugs. Recall that in functional programming, changing or altering things is called mutation, and the outcome is called a side effect. A function, ideally, should be a pure function, meaning that it does not cause any side effects. Using the `slice` method instead of `splice` helps to avoid any array-mutating side effects.
+> :information_source: *freecodecamp.org*
+
+<details><summary>	:footprints: Click to expand the details - Screenshots from freecodecamp.org :footprints: </summary>
+
+![fcc_js-basics_done](https://github.com/julia-online/kottans-frontend/blob/main/task_js_basics/fcc-js-basics_done.jpg)
+
+![fcc-es6_done](https://github.com/julia-online/kottans-frontend/blob/main/task_js_basics/fcc-es6_done.jpg)
+
+![fcc-basic-data-strutures_done](https://github.com/julia-online/kottans-frontend/blob/main/task_js_basics/fcc-basic-data-structures_done.jpg)
+
+![fcc-basic-algorithm-scripting_done](https://github.com/julia-online/kottans-frontend/blob/main/task_js_basics/fcc-basic-algorithm-scripting_done.jpg)
+
+![fcc-functional-programming_done](https://github.com/julia-online/kottans-frontend/blob/main/task_js_basics/fcc-functional-programming_done.jpg)
+
+![fcc-intermediate-algorithm-scripting_done](https://github.com/julia-online/kottans-frontend/blob/main/task_js_basics/fcc-intermediate-algorithm-scripting_done.jpg)
+
+</details>
+
 ## Responsive Web Design :v:
 
 > :one: Flexbox consists of :black_circle: (1) flex container & (2) flex items.
