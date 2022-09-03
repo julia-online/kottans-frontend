@@ -14,6 +14,8 @@ git config --global user.name "julia-online"
 ><br>
 > :four: Functional programming is a style of programming where solutions are simple, isolated functions, without any side effects outside of the function scope: INPUT -> PROCESS -> OUTPUT. One of the core principles of functional programming is to not change things. Changes lead to bugs. Recall that in functional programming, changing or altering things is called mutation, and the outcome is called a side effect. A function, ideally, should be a pure function, meaning that it does not cause any side effects. Using the `slice` method instead of `splice` helps to avoid any array-mutating side effects.
 > :information_source: *freecodecamp.org*
+><br>
+> // :confused: Followed hints while doing Basic Algorithm Scripting & Intermediate Algorithm Scripting - I feel I'm lacking in knowledge & skills.  
 
 <details><summary>	:footprints: Click to expand the details - Screenshots from freecodecamp.org :footprints: </summary>
 
